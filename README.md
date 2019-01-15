@@ -1,2 +1,2 @@
-# site_perso de Alexandre GRAILLE
-# Fait avec Victor GRANIER
+# site de Alexandre GRAILLE
+# et Victor GRANIER
